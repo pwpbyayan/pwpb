@@ -106,26 +106,17 @@
                         <p data-aos="fade-up">
                         Program keahlian yang mempersiapkan siswa menjadi tenaga terampil di bidang pemrogaman software.
                          Siswa di bekali kemampuan dasar instalasi hardware dan software komputer, penguasaan bahasa pemrogaman (C++, Java, Python, JavaScript, PHP dsb), 
-                         dan pengolahan database (Microsoft Acces, MySQL, dsb)
+                         dan pengolahan database (Microsoft Acces, MySQL, dsb) <br> <br>
+                         <b>Peluang Kerja: </b> <br>
+                         Menjadi tenaga ahli pemrograman komputer pada perusahaan/instansi yang khusus bergerak dibidang jasa teknologi informasi 
+                         ataupun perusahaan umum yang telah menggunakan teknologi informatika (komputerisasi) dalam menjalankan aktifitaasnya atau berwirausaha.
                         </p>
-                        <div class="icon-box" data-aos="fade-up">
-                            <i class="bx bx-receipt"></i>
-                            <h4>Corporis voluptates sit</h4>
-                            <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-                        </div>
-
-                        <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                            <i class="bx bx-cube-alt"></i>
-                            <h4>Ullamco laboris nisi</h4>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                        </div>
-
-                        <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-                            <i class="bx bx-cube-alt"></i>
-                            <h4>Ullamco laboris nisi</h4>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                        </div>
-
+                    </div>
+                    <div class="col-xl-6 col-lg-5 pt-5 pt-lg-0">
+                    PPP
+                    </div>
+                    <div class="col-xl-6 col-lg-5 pt-5 pt-lg-0">
+                    PPPP
                     </div>
                 </div>
 
